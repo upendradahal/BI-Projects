@@ -53,6 +53,9 @@
     <Report Include="PropertyInfo.rdl" />
     <Report Include="PropertyInvestmentAnalysis.rdl" />
     <Report Include="Report1.rdl" />
+    <Report Include="SchoolInfo.rdl" />
+    <Report Include="SuburbOverview.rdl" />
+    <Report Include="TotalSchoolsNearProperty.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
