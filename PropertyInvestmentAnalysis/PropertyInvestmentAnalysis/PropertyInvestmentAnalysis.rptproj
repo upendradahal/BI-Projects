@@ -51,14 +51,17 @@
   <ItemGroup>
     <Report Include="InvestmentChart.rdl" />
     <Report Include="PropertyBySuburb.rdl" />
+    <Report Include="PropertyChartUpdated.rdl" />
     <Report Include="propertydetail.rdl" />
     <Report Include="PropertyInfo.rdl" />
     <Report Include="PropertyInfoUpdated.rdl" />
     <Report Include="PropertyInvestmentAnalysis.rdl" />
     <Report Include="PropertyInvestmentAnalysisUpdated.rdl" />
+    <Report Include="RentalOverview.rdl" />
     <Report Include="SchoolInfo.rdl" />
     <Report Include="SuburbOverview.rdl" />
     <Report Include="TotalSchoolsNearProperty.rdl" />
+    <Report Include="TotalSchoolsNearPropertyUpdated.rdl" />
     <Report Include="TotalTransportsNearProperty.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
